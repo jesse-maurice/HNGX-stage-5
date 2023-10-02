@@ -5,8 +5,9 @@ client URL: https://hngx-stage-5.vercel.app/
 
 - View all uploaded videos
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# HNGx-stage-5
+<<<<<<< HEAD
+  - [https://hngx-stage-5.vercel.app/video](https://hngx-stage-5.vercel.app/video)
+=======
+    
+# Extension
+To use the extension link, download from the link below:  [extension.zip](https://github.com/jesse-maurice/HNGX-stage-5/files/12781417/extension.zip)
