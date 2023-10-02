@@ -1,9 +1,11 @@
-# React + Vite
+# Some Links on the client side
+view all uploaded videos:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+client URL: https://hngx-stage-5.vercel.app/
 
-Currently, two official plugins are available:
+- View all uploaded videos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# HNGx-stage-5
+  - [https://helpmeoutapp.vercel.app/home](https://helpmeoutapp.vercel.app/home)
+    
+# Extension
+To use the extension link, download from the link below:  [extension.zip](https://github.com/jesse-maurice/HNGX-stage-5/files/12781417/extension.zip)
