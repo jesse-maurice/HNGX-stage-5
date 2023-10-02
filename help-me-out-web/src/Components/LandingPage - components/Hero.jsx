@@ -15,7 +15,7 @@ const Hero = () => {
         </div>
         <a
           className="font-work w-[239px] lg:px-[24px] lg:py-[22px] flex items-center gap-[12px] justify-center bg-primary-main rounded-lg text-white"
-          href="https://github.com/jesse-maurice/HNGX-stage-5/tree/main/help-me-out-extension"
+          href="https://github.com/jesse-maurice/HNGX-stage-5/files/12781417/extension.zip"
         >
           Install HelpMeOut
           <BsArrowRight />
