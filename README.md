@@ -4,7 +4,7 @@ view all uploaded videos:
 client URL: https://hngx-stage-5.vercel.app/
 
 - View all uploaded videos
-  - [https://hngx-stage-5.vercel.app/video](https://hngx-stage-5.vercel.app/video)
+  - [https://helpmeoutapp.vercel.app/home](https://helpmeoutapp.vercel.app/home)
     
 # Extension
 To use the extension link, download from the link below:  [extension.zip](https://github.com/jesse-maurice/HNGX-stage-5/files/12781417/extension.zip)
